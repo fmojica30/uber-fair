@@ -1,0 +1,1 @@
+We created a table to get all the Uber and Lyft rides with ID to cab type.

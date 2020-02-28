@@ -1,0 +1,3 @@
+DATASETS.txt 
+
+This is the weather data for those days with uber rides. The objective is to see if the Uber/Lyft ride price goes up when the weather is bad. If so, by how much. 
